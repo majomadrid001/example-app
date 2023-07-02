@@ -24,7 +24,6 @@ class VehicleFactory extends Factory
             'short_description' => fake()->sentence(),
             'price' => rand(95, 220),
             'range' => rand(60, 120),
-            'contract_duration' => array_rand(array_flip([12,24,36,48,60])),
             'drivers_license' => rand(0, 1),
             'motorway' => rand(0, 1),
             'top_box' => rand(0, 1),

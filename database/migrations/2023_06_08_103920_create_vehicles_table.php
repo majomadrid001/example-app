@@ -18,7 +18,6 @@ return new class extends Migration
             $table->string('short_description');
             $table->decimal('price', 5, 2);
             $table->unsignedInteger('range');
-            $table->unsignedInteger('contract_duration');
             $table->boolean('drivers_license');
             $table->boolean('motorway');
             $table->boolean('top_box');
