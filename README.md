@@ -2,7 +2,7 @@
 
 You need docker installed because it is based on sail.
 
-Please clone the repository with git clone git@github.com:majomadrid001/pandago.git
+Please clone the repository with git clone git@github.com:majomadrid001/example-app.git
 
 Switch to the folder
 
